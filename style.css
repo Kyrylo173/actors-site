@@ -1,0 +1,31 @@
+body {
+font-family: Arial, sans-serif;
+background-color: #f4f6f9;
+color: #222222;
+margin: 0;
+line-height: 1.6;
+}
+header {
+background-color: #6994c5;
+color: white;
+text-align: center;
+padding: 30px;
+}
+main { max-width: 800px; margin: 20px auto; padding: 0 15px; }
+.actor, #together {
+background-color: white;
+padding: 30px;
+margin-bottom: 30px;
+border-radius: 10px;
+
+}
+.actor img { width: 220px; 
+    height: auto; 
+    border-radius: 8px; 
+    margin: 20px;}
+h2 { color: #6994c5; }
+footer { text-align: center; padding: 20px; background: #e1e7ee; }
+a {
+    color: #1783ff;
+    text-decoration: underline;
+}
